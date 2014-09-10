@@ -91,6 +91,4 @@ Pinteresting::Application.configure do
     }
   }
 
-
-
 end

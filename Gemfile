@@ -7,11 +7,13 @@ gem 'bootstrap-sass'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
+gem 'jquery-turbolinks'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'devise', '~> 3.3.0'
 gem "paperclip", "~> 4.2"
 gem 'aws-sdk', "~> 1.52.0"
+gem 'masonry-rails'
 
 group :development, :test do
 	gem 'sqlite3'
